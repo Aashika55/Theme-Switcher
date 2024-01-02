@@ -70,6 +70,7 @@ export default function Card() {
                     >
                         Add to cart
                     </a>
+                    <h1>Otusone LLp Intern</h1>
                 </div>
             </div>
         </div>
